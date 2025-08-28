@@ -36,10 +36,9 @@ This repository contains all my daily progress, exercises, challenges, and proje
 ```bash
 100-days-of-python-code/
 ├── Day01/
-│   ├── main.py
-│   └── README.md
+│   ├── exercise1.py
 ├── Day02/
 │   ├── tip_calculator.py
-│   └── README.md
+│   
 ...
 └── README.md
