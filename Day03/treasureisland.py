@@ -1,3 +1,4 @@
+#!/bin/python3
 """
 Treasure Island Game
 Your mission is to find the treasure.

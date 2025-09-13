@@ -1,3 +1,4 @@
+#!/bin/python3
 '''
 Variables
 We have 2 variables glass1 and glass2. glass1 contains milk and glass2 contains juice. 

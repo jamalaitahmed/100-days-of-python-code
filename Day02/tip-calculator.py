@@ -1,3 +1,4 @@
+#!/bin/python3
 '''
 Tip Calculator
 Write a program that splits a bill between multiple people, including a tip.

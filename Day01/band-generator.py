@@ -1,3 +1,4 @@
+#!/bin/python3
 #1. Create a greeting for your program.
 print("Hello there! Welcome to Band Generator.")
 

@@ -1,4 +1,4 @@
-#/bin/python3
+#!/bin/python3
 # FizzBuzz Program
 # ----------------
 # Print numbers from 1 to 100 (inclusive).

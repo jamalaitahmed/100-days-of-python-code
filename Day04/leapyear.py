@@ -1,3 +1,4 @@
+#!/bin/python3
 # This program checks if a given year is a leap year.
 # A leap year is divisible by 4, but years divisible by 100 are not leap years unless they are also divisible by 400.
 

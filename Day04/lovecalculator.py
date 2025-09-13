@@ -1,3 +1,4 @@
+#!/bin/python3
 # TRUE LOVE in names
 # Ask for two names, calculate a "love score" based on the letters in "TRUE" and "LOVE"
 

@@ -1,3 +1,4 @@
+#!/bin/python3
 # 📝 Pizza Order Calculator
 # Ask the user for pizza size, pepperoni, and extra cheese, then calculate the final bill.
 print("Welcome to Python Pizza Deliveries!")

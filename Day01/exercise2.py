@@ -1,3 +1,4 @@
+#!/bin/python3
 '''
 Debugging Practice
 Look at the code in the code editor. There are errors on all 5 lines of code. Fix the code so that it runs without errors.

@@ -1,3 +1,4 @@
+#!/bin/python3
 # This program calculates a user's Body Mass Index (BMI) based on their height and weight.
 # It then categorizes the BMI into underweight, normal weight, slightly overweight, obese, or clinically obese.
 

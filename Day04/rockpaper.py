@@ -1,3 +1,4 @@
+#!/bin/python3
 # 📝 Rock, Paper, Scissors Game
 # Let the user choose Rock, Paper, or Scissors, randomly select the computer's choice, 
 # display both choices with ASCII art, and determine the winner.
